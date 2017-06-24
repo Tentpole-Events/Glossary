@@ -1,4 +1,4 @@
-# Tentpole Glossary
+# Tentpole Business Glossary
 
 The [Tentpole Business Glossary](glossary.md), includes ready to use industry standard terms and definitions.
 It helps you improve business and IT alignment in areas such as master data management, data warehousing, business 
