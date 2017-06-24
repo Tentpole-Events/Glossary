@@ -40,7 +40,7 @@ To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0
 
 ## 5 Taxonomy
 
-###5.1 Root 
+### 5.1 Root 
 At the root level the taxonomy consists of 6 categories
 Type | Description | Examples |
 :----------| :----------| :----------| 
@@ -51,38 +51,38 @@ Technology | Industry actors that provide content delivery & engagement technolo
 Location | Industry actors that providePublic and private venues and locations |  Exhibition centres, stadiums
 Capital| Industry actors that provide sources of investment and funding |Private equity, banks, angel
 
-###5.1.1 Organizer
+### 5.1.1 Organizer
 Type | Description | Examples |
 :----------| :----------| :----------| 
 Accelerators, Incubators & Co-Working | TBC | TBC| 
 Associations, Membership Organizations & Co-Ops | TBC | TBC| 
 
-####5.1.2 Accelerators, Incubators & Co-Working 
+#### 5.1.2 Accelerators, Incubators & Co-Working 
 Type | Description | Examples |
 :----------| :----------| :----------| 
 TBC | TBC | TBC| 
 
-####5.1.3 Associations, Membership Organizations & Co-Ops
+#### 5.1.3 Associations, Membership Organizations & Co-Ops
 Type | Description | Examples |
 :----------| :----------| :----------| 
 TBC | TBC | TBC| 
 
-###5.2 Supplier
+### 5.2 Supplier
 Type | Description | Examples |
 :----------| :----------| :----------| 
 TBC | TBC | TBC| 
 
-###5.3 Technology
+### 5.3 Technology
 Type | Description | Examples |
 :----------| :----------| :----------| 
 TBC | TBC | TBC| 
 
-###5.4 Location
+### 5.4 Location
 Type | Description | Examples |
 :----------| :----------| :----------|
 TBC | TBC | TBC|
 
-###5.5 Capital
+### 5.5 Capital
 Type | Description | Examples |
 :----------| :----------| :----------| 
 TBC | TBC | TBC| 
